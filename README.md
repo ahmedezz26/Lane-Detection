@@ -25,7 +25,7 @@ The images for camera calibration are stored in the folder called `camera_cal`.
 
 To activate the environment:
 
-Window: `conda activate carnd`
+Window: `conda activate laneDetection`
 
 
 ### 2. Run the pipeline:
