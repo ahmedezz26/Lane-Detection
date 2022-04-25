@@ -1,4 +1,4 @@
-name: carnd
+name: laneDetection
 dependencies:
     - python==3.6.9
     - numpy
